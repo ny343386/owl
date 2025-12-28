@@ -1,7 +1,7 @@
 # owl
 Internship Tasks
 
-🧠 Task 1: Research on the Role of a Java / Backend Developer
+ **Task 1: Research on the Role of a Java / Backend Developer**
 📄 Objective
 
 Create a detailed 3-page PDF explaining the role of a Java/Backend Developer in modern software development.
@@ -29,8 +29,8 @@ Hibernate/JPA
 
 This task demonstrates theoretical knowledge of backend development and industry-relevant technologies.
 
-🗄️ Task 2: Database Connectivity Using Java
-📄 Objective
+** Task 2: Database Connectivity Using Java
+**📄 Objective
 
 Build a Java application that connects to a MySQL database and retrieves data from a table.
 
@@ -70,8 +70,8 @@ Compile and run the Java file
 🎯 Outcome
 
 Demonstrates hands-on experience with Java database connectivity and backend data handling.
-
-🔁 Task 3: Palindrome Checker in Java
+**
+🔁 Task 3: Palindrome Checker in Java**
 📄 Objective
 
 Create a Java program to check whether a given string is a palindrome.
