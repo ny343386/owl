@@ -24,13 +24,15 @@ REST APIs
 
 Hibernate/JPA
 
-
 🎯 Outcome
 
 This task demonstrates theoretical knowledge of backend development and industry-relevant technologies.
 
-** Task 2: Database Connectivity Using Java
-**📄 Objective
+
+
+
+** Task 2: Database Connectivity Using Java**
+📄 Objective
 
 Build a Java application that connects to a MySQL database and retrieves data from a table.
 
@@ -68,10 +70,12 @@ Update database credentials in the code
 Compile and run the Java file
 
 🎯 Outcome
-
 Demonstrates hands-on experience with Java database connectivity and backend data handling.
-**
-🔁 Task 3: Palindrome Checker in Java**
+
+
+
+
+🔁 Task 3: Palindrome Checker in Java
 📄 Objective
 
 Create a Java program to check whether a given string is a palindrome.
